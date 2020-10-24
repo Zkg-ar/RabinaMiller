@@ -79,7 +79,7 @@ public static boolean checkNum(int number)
 
     public static void main(String[] args) {
         mas = primeNum(10000);
-//        System.out.println(MillerRabinTest());
+
 
         //Тест Рабина-Миллера
         Integer integer=generateNum();
